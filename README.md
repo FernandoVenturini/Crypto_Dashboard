@@ -1,7 +1,7 @@
 📊 Crypto Dashboard - Cryptocurrency Monitoring
 Interactive dashboard for real-time cryptocurrency monitoring with a personalized alert system.
 
-✨ Features
+✨ Features 
 ✅ Real-time quotes for the main cryptocurrencies
 
 ✅ Price variation charts (24h)
