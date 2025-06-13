@@ -28,5 +28,3 @@ Email Notifications
 Login with Firebase
 
 Comparison between cryptocurrencies
-
-Dark/light mode
